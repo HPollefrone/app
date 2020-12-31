@@ -1,0 +1,68 @@
+body {
+    font-size: 14px;
+}
+header{
+    height:175px;
+    margin-top: 5px;
+}
+
+.coluna {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0px;
+    list-style: none;
+    padding-top: 0;
+    margin-left: 0;
+}
+
+.cardCliente{
+    height: 155px;
+    position: relative;
+    margin-left: 10px;
+}
+.cardMecanica{
+   /* width: 700px;*/
+    height: 250px;
+}
+.cardEletrica{
+    height: 200px;
+}
+
+
+.cliente {
+    width: 450px;
+}
+
+.card-body {
+    padding-top: 0;
+    /*height: 280px;
+   /* position: relative;*/
+}
+
+/*.combustivel {
+    position: absolute;
+    top: 112px;
+    left: 174px;
+
+}
+
+.oleo {
+    position: absolute;
+    top: 80px;
+    left: 275px;
+}*/
+.cardMedicao{
+    width: 500px;
+}
+.cardObervacao{
+    height: 255px;
+}
+.cardAssinatura{
+    height: 380px;
+}
+
+img {
+    margin-top: 5px;
+}
+
+

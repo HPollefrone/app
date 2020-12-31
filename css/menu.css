@@ -1,0 +1,33 @@
+section{
+    max-width: 350px;
+    height: 350px;
+    margin-top: 20px;
+    background-color: #0d47a1;
+    color: white;
+
+    position: relative;
+}
+
+button{
+   width: 120px;
+   margin: auto;
+   border-radius: 40%;
+}
+
+.btn1 {
+    left: 115px;
+    top: 50px;
+    position: absolute;
+}
+
+.btn2 {
+    left: 115px;
+    top: 100px;
+    position: absolute;
+}
+
+.btn3 {
+    left:115px ;
+    top:160px;
+    position: absolute;
+}
